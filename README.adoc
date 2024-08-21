@@ -1,0 +1,14 @@
+[separator=::]
+= CryCorder: Deep Space Monitor
+{docdate} Open source baby monitor based on IP cameras
+
+== Objectives
+
+Create a smart baby monitor that uses video and audio to monitor a baby's activity, providing real-time alerts and streaming to parents' devices.
+
+=== Key Features
+
+. **Video Streaming**: Real-time video feed from the baby's room.
+. **Audio Monitoring**: Real-time audio feed to detect crying or unusual noises.
+. **Motion Detection**: Detects significant movements and alerts parents.
+. **Sound Detection**: Identifies crying or other important sounds and sends notifications.

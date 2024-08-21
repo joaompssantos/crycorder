@@ -1,0 +1,20 @@
+{
+    "asciidoc.preview.useEditorStyle": false,
+    "asciidoc.extensions.enableKroki": true,
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "clangd.checkUpdates": true,
+    "C_Cpp.autocomplete": "disabled",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+    "cmakeFormat.env": {
+        "path": "/home/jsantos/Python/cmake-format"
+    },
+    "cmakeFormat.exePath": "/home/jsantos/Python/cmake-format/bin/cmake-format",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "cmake.options.statusBarVisibility": "hidden",
+}
